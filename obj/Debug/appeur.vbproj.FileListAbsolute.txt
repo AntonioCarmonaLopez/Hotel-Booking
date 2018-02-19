@@ -1,0 +1,25 @@
+C:\Users\abuelo\Documents\Visual Studio 2008\appeur\bin\Debug\appeur.exe
+C:\Users\abuelo\Documents\Visual Studio 2008\appeur\bin\Debug\appeur.pdb
+C:\Users\abuelo\Documents\Visual Studio 2008\appeur\bin\Debug\appeur.xml
+C:\Users\abuelo\Documents\Visual Studio 2008\appeur\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\abuelo\Documents\Visual Studio 2008\appeur\obj\Debug\appeur.Form1.resources
+C:\Users\abuelo\Documents\Visual Studio 2008\appeur\obj\Debug\appeur.Resources.resources
+C:\Users\abuelo\Documents\Visual Studio 2008\appeur\obj\Debug\appeur.vbproj.GenerateResource.Cache
+C:\Users\abuelo\Documents\Visual Studio 2008\appeur\obj\Debug\appeur.exe
+C:\Users\abuelo\Documents\Visual Studio 2008\appeur\obj\Debug\appeur.xml
+C:\Users\abuelo\Documents\Visual Studio 2008\appeur\obj\Debug\appeur.pdb
+C:\Users\abuelo\Documents\Visual Studio 2008\appeur\obj\Debug\appeur.Form2.resources
+C:\Users\abuelo\Documents\Visual Studio 2008\appeur\bin\Debug\appeur.exe.config
+C:\Users\Administrador\Desktop\appeur\appeur\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\appeur\appeur\obj\Debug\appeur.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\appeur\appeur\bin\Debug\bd1.mdb
+C:\Users\Administrador\Desktop\appeur\appeur\bin\Debug\guest.exe.config
+C:\Users\Administrador\Desktop\appeur\appeur\bin\Debug\guest.exe
+C:\Users\Administrador\Desktop\appeur\appeur\bin\Debug\guest.pdb
+C:\Users\Administrador\Desktop\appeur\appeur\bin\Debug\guest.xml
+C:\Users\Administrador\Desktop\appeur\appeur\obj\Debug\guest.Form1.resources
+C:\Users\Administrador\Desktop\appeur\appeur\obj\Debug\guest.Form2.resources
+C:\Users\Administrador\Desktop\appeur\appeur\obj\Debug\guest.Resources.resources
+C:\Users\Administrador\Desktop\appeur\appeur\obj\Debug\guest.exe
+C:\Users\Administrador\Desktop\appeur\appeur\obj\Debug\guest.xml
+C:\Users\Administrador\Desktop\appeur\appeur\obj\Debug\guest.pdb
